@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_28cd748564e8850bc6464f63041bf79bb0c7a904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_27246ed713ef74028f8a60b1af327b2b8d5fae81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_779ea5ef1417129795e983b148ee5e6fdf3d90ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d78a877aea33ab0f544e50a377eac966711ab345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1acaf39f0dc5a645a1cd072e196d4139c23b93d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b4ce68c16e3a49250177fd08e7314b5b8ffb3a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_253ab2f4b2ff72478b324e1cba327381668b14b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_da8b90e47f62b2afbe412f964241b9afb3bc572b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ac04660dbd68c8d13051302a694561c2a63887db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_880ebeefcd0684d11738bc2e07012dd7260e9e40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4b520f54c8abcf22ec8ba5b179ec6d0d3725162f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f93430f1df8045e9cf1bd5f7a94ec69eb357c398\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5cd6e76bfc0eb9633af99138ba8602a6791d9734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d77965dc0d9b8876cec96c23cf7b4a583838677b">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e163f4f674011da3dc2248aa1fd220b2ad06fb36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_71e9a058d5749abab719c0b8526e30023f3a6a6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b1399716da3144db1823656a4266483066f62f8">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a442ec35fb2dc19fe073159c070cadfb9027f460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\StephenJackson\AndroidStudioProjects\EntertainmentEngine2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dd4c8f34c99825cd4cad5fc7e9eb6d3985852c9a\classes.dex" />
+    </item>
+
+</items>
